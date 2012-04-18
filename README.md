@@ -6,6 +6,7 @@ Apps
 collect\_mi.py
 --------------
 In the function collect\_mi():
+
 *	set arfcn as parameter of osmo\_init(arfcn)
 *	if you want to collect the imsi/tmsi in a file implement it! ;)
 
